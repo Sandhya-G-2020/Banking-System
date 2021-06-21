@@ -10,7 +10,9 @@
               <li class="nav-item">
                 <a class="nav-link" href="index.php">Home</a>
               </li>
-              
+              <li class="nav-item">
+                <a class="nav-link" href="createuser.php">Create User</a>
+              </li>
               <li class="nav-item">
                 <a class="nav-link" href="transfer.php">Transfer Money</a>
               </li>
